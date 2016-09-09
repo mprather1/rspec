@@ -7,3 +7,5 @@
 Global: ~/.rspec
 Project: ./.rspec
 Local: ./.rspec-local
+
+rspec --init #initialize rspec
