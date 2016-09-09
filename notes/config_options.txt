@@ -1,0 +1,9 @@
+--no-color, --color
+--format progress, --format documentation
+--no-profile, --profile
+--no-fail-fast, --fail-fast
+--order defined, --order-random
+
+Global: ~/.rspec
+Project: ./.rspec
+Local: ./.rspec-local
